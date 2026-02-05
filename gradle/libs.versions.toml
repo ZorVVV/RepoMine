@@ -1,5 +1,5 @@
 [versions]
-kotlin = "2.3.0"
+kotlin = "2.3.10"
 micronaut = "4.10.12"
 micronaut-plugin = "4.6.1"
 minestom = "1058d88552"
