@@ -4,7 +4,7 @@ micronaut = "4.10.16"
 micronaut-plugin = "4.6.2"
 minestom = "1058d88552"
 logback = "1.5.32"
-shadow-plugin = "9.3.1"
+shadow-plugin = "9.3.2"
 worldseed = "11.5.6"
 plasmovoice = "2.1.8"
 
